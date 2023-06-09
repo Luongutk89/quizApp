@@ -1,0 +1,33 @@
+{
+  "name": "quizapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^37.0.1",
+    "@ckeditor/ckeditor5-vue": "^5.0.0",
+    "axios": "^1.3.4",
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue-next": "^0.7.3",
+    "boxicons": "^2.1.4",
+    "ckeditor5": "^37.0.1",
+    "jwt-decode": "^3.1.2",
+    "lodash": "^4.17.21",
+    "nprogress": "^0.2.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vue3-carousel": "^0.3.0",
+    "vue3-toastify": "^0.1.6",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.62.0",
+    "sass-loader": "^13.2.2",
+    "vite": "^4.1.4"
+  }
+}
